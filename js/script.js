@@ -34,3 +34,5 @@ ctx.drawImage(img,150,450);
 };
 img.src="img/img.png";
 
+ //curvas de Bézier quadráticas
+ 
