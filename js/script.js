@@ -7,7 +7,7 @@ ctx.fillText("Teste de elelmentos do canva", 100, 100);
 
 //retangulo
 ctx.fillStyle="#227bb5";
-ctx.fillRect(50,150,250,200);
+ctx.fillRect(50,150,250,150);
 
 //circulo
 ctx.fillStyle="#227bb5";
@@ -33,3 +33,4 @@ img.onload = function(){
 ctx.drawImage(img,150,450);
 };
 img.src="img/img.png";
+
