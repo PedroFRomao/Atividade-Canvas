@@ -33,4 +33,4 @@ Para colocarmos a imagem dentro de um canva utilizamos um código de puxar image
 </p>
 <p Align="justify">E assim ficou o site com as coisas feitas e coloridas  </p>
   
-<img src="img/img.png">
+<img src="img/Captura de tela.png">
