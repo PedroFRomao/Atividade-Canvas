@@ -18,7 +18,8 @@ ctx.fill();
 
 //curva
 ctx.beginPath();
-ctx.arc(680,300,80,0,Math.PI);
+ctx.moveTo(600,350);
+ctx.quadraticCurveTo(800,170,770,320);
 ctx.stroke();
 
 //linha
@@ -32,7 +33,4 @@ var img=new Image();
 img.onload = function(){
 ctx.drawImage(img,150,450);
 };
-img.src="img/img.png";
-
- //curvas de Bézier quadráticas
- 
+img.src="img/img.png"; 
