@@ -21,4 +21,16 @@ Dentro do BODY utilazmos um código para criar o elemento canva.<br>
 
 <li><h3>script.js</h3></li>
 
-<p Align="justify">texto</p>
+<p Align="justify">O código em si não faz muita coisa sem o código do java script, isso seria apenas uma tela em branco e o pintor seria os códigos do Java.<br>
+  
+Dentro do código do java utilizamos códigos que efetuam linhas como o “stroke”<br>
+  
+Juntamente com o “fillstyle “ para preencher e dar cores aos desenhos <br>
+  
+E com o “fillrect” para criar as formar e dar tamanhos a elas <br>
+  
+Para colocarmos a imagem dentro de um canva utilizamos um código de puxar imagem normal.<br>
+</p>
+<p Align="justify">E assim ficou o site com as coisas feitas e coloridas  </p>
+  
+ <img src="img/img.png">
