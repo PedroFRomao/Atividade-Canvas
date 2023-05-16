@@ -1,4 +1,4 @@
-<h1>Atividade-Canvas</h1>
+<center><h1>Atividade-Canvas</h1></center>
   
 <ul>
 <li><h3>Index.html</h3></li>
