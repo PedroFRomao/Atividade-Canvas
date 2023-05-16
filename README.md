@@ -1,4 +1,4 @@
-<center><h1>Atividade-Canvas</h1></center>
+<h1>Atividade-Canvas</h1>
   
 <ul>
 <li><h3>Index.html</h3></li>
@@ -33,4 +33,4 @@ Para colocarmos a imagem dentro de um canva utilizamos um código de puxar image
 </p>
 <p Align="justify">E assim ficou o site com as coisas feitas e coloridas  </p>
   
-<center><img src="img/Captura de tela.png"></center>
+<img src="img/foto.jpg">
